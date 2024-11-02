@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "11.0"
 
 accounts:
   message: "Hey, welcome to EazyBank accounts, check constructor called?"
